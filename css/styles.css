@@ -1,0 +1,119 @@
+#info {
+  background-color: #ffffff;
+}
+
+#education {
+  padding: 3% 15%;
+  background-color: #9ccbe2;
+}
+
+#work {
+  padding: 3% 15%;
+  background-color: #68bacf;
+}
+
+#list {
+  padding: 3% 15%;
+  background-color: #80D5E2;
+}
+
+.container-fliud{
+  padding :3% 15%;
+
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/*Navigation Bar*/
+a.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+nav.navbar{
+  padding-bottom: 4.5rem;
+}
+li.nav-item{
+  padding-top: 0px;
+  padding-right: 18px;
+  padding: 4.5rem;
+  padding-left: 0px;
+}
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+/*Download Buttons*/
+div.resume-button{
+  margin: 5%, 3%, 5% 0;
+}
+/*Title Image*/
+.title-image{
+  width: 100%;
+  padding: 10px 10px 10px 200px;
+}
+
+
+h2{
+  color:#fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  font-size: 2rem;
+}
+p{
+  font-size: 1.2em;
+}
+.icon{
+  color: #ef8712;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color: #8fdbe2;
+}
+/*Testimonial*/
+#gallery{
+  padding: 1% 15%;
+  background-color: #7ddbda;
+  text-align: center;
+}
+
+#project{
+  padding: 1% 15%;
+  background-color: #7ddbd0;
+}
+.carousel-item{
+  padding: 6% 15%;
+}
+.gallery-image{
+  width:100%;
+  margin: 10px;
+}
+
+/*footer*/
+#footer{
+  background-color: #8fdbf2;
+  padding: 1% 15%;
+  text-align: center;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+
+/* COGS3 studyBuddy specific styles go here. */
