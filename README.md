@@ -1,4 +1,4 @@
-# COGS3
+# Website
 
-[Final portfolio](https://zhiyuanyang26.github.io/COGS3/index.html)
+[Final portfolio](https://zhiyuanyang26.github.io/Website/index.html)
 
